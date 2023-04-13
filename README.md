@@ -5,13 +5,14 @@ Olá! Eu sou Pedro Henrique, moro em Natal - RN.
 
 Meu Objetivo é atuar na área de Back-end/Front-end em Desenvolvimento Web, com foco nas linguagens JavaScript, HTML e CSS.
 
-### <strong>⌨ Linguagem</strong> ️
+### <strong>⌨ Linguagens</strong> ️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript?logo=JavaScript)
 
 ### <strong>🛠️ Ferramentas</strong>
 
-![JavaScript](https://img.shields.io/badge/JavaScript)
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
