@@ -8,7 +8,7 @@ Meu Objetivo é atuar na área de Back-end/Front-end em Desenvolvimento Web, com
 ### <strong>⌨ Linguagens</strong> ️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript?logo=JavaScript)
+![JavaScript][(https://img.shields.io/badge/JavaScript?logo=JavaScript)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### <strong>🛠️ Ferramentas</strong>
 
